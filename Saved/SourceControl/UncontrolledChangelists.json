@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Levels/GameplayUsage.umap",
+				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Levels/Gym.umap",
+				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Blueprints/BP_Door_Parent.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Blueprints/BPC_Switch.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Levels/GameplayUsage.umap",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Levels/Gym.umap",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_Switch.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_Key.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_GearWheel.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_GearMachine.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_Crowbar.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_Door_Interface.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BPC_Barricade.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BP_Key_Parent.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BP_Interactive_Parent.uasset",
+				"C:/Users/User/Documents/Unreal Projects/FinalPractice_Template/Content/MyContent/Blueprints/BP_Door_Parent.uasset"
+			]
+		}
+	]
+}
