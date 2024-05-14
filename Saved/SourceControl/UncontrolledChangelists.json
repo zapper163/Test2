@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Levels/P_Baselevel.umap",
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Levels/LD_BlockOut.umap",
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/Materials/M_LDGrid_Red.uasset",
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Levels/LD_Gameplay.umap",
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_Base_CharacterBP.uasset",
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Blueprints/BP_DoorParent.uasset",
+				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Blueprints/BPC_Door_Interface.uasset",
 				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Levels/GameplayUsage.umap",
 				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Levels/Gym.umap",
 				"C:/Users/User/Documents/Unreal Projects/FinalProjTemplate/Content/MyContent/Blueprints/BP_Door_Parent.uasset",
