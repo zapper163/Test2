@@ -5,9 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/zapin/Documents/GitHub/Test2/Content/MyContent/Levels/PowerPlant.umap",
+				"C:/Users/zapin/Documents/GitHub/Test2/Content/MyContent/Levels/FbxScene_building_2.uasset",
 				"C:/Users/zapin/Documents/GitHub/Test2/Content/MyContent/Levels/PowerPlant_BlockOut.umap",
 				"C:/Users/zapin/Documents/GitHub/Test2/Content/MyContent/Levels/_GENERATED/zapin/Box_DE9FBB21.uasset",
-				"C:/Users/zapin/Documents/GitHub/Test2/Content/MyContent/Levels/PowerPlant.umap",
 				"C:/Users/zapin/Documents/GitHub/Test2/Content/MyContent/Levels/_GENERATED/zapin/Box_50944E2D.uasset",
 				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Levels/P_Baselevel.umap",
 				"C:/Users/Alejandrogs4/Downloads/FinalPractice_Template/FinalPractice_Template/Content/MyContent/Levels/LD_BlockOut.umap",
